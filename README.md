@@ -1,7 +1,6 @@
 # Design of a Standard Calculator
 
 ## AIM:
-
 To design a web application for a standard calculator.
 
 ## DESIGN STEPS:
@@ -106,7 +105,5 @@ Publish the website in the given URL.
 
 ## Client Output:
 ![standard calculator  client output](https://github.com/SaravananPV3010/standard-calculator/assets/139754526/a415c2f3-c4de-4386-93e1-a130ff3e9dc6)
-
-
 ## Result:
 A web application for a standard calculator has been designed successfully.
